@@ -23,7 +23,7 @@ default: &default
 
 development:
   <<: *default
-  database: mister-cocktail-live-code-boilerplate_development
+  database: mister-cocktail-101_development
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
